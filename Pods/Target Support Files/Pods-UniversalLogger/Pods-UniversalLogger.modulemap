@@ -1,0 +1,6 @@
+framework module Pods_UniversalLogger {
+  umbrella header "Pods-UniversalLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

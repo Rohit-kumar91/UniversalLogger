@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.3)
+  - DynamicBlurView (2.0.2)
+  - PromiseKit (6.3.4):
+    - PromiseKit/CorePromise (= 6.3.4)
+    - PromiseKit/Foundation (= 6.3.4)
+    - PromiseKit/UIKit (= 6.3.4)
+  - PromiseKit/CorePromise (6.3.4)
+  - PromiseKit/Foundation (6.3.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.3.4):
+    - PromiseKit/CorePromise
+  - ReachabilitySwift (4.1.0)
+  - SearchTextField (1.2.2)
+  - SSSpinnerButton (1.0.2)
+  - SwiftKeychainWrapper (3.0.1)
+  - SwiftyJSON (4.1.0)
+  - SwiftyStoreKit (0.13.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - DynamicBlurView
+  - PromiseKit (~> 6.0)
+  - ReachabilitySwift
+  - SearchTextField
+  - SSSpinnerButton
+  - SwiftKeychainWrapper
+  - SwiftyJSON (~> 4.0)
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - DynamicBlurView
+    - PromiseKit
+    - ReachabilitySwift
+    - SearchTextField
+    - SSSpinnerButton
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  DynamicBlurView: aa6db4defc6e537eb86fc5e58dd3991666178399
+  PromiseKit: e1425568123ec844a944c93f2bcb29d511d39cf5
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SearchTextField: a0992739d4b05dcbb40fb3a5cc6526bd991bdd23
+  SSSpinnerButton: 70dc12692462d70828467589e7533ae07366744f
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SwiftyStoreKit: 9ebd15971e28aa2989825fe8bc092eb5f75dd0b2
+
+PODFILE CHECKSUM: 242eb045851017249dc5558f31f83ca93dbe8b67
+
+COCOAPODS: 1.5.3
